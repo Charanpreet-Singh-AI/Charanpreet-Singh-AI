@@ -11,7 +11,6 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=Charanpreet-Singh-AI&color=red)&nbsp;
-[![GitHub Charanpreet-Singh-AI](https://img.shields.io/github/followers/Charanpreet-Singh-AI?label=follow&style=social)](https://github.com/Charanpreet-Singh-AI)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm 2020 pass out graduate with BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
@@ -31,9 +30,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
