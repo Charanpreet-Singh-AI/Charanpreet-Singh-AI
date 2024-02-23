@@ -16,7 +16,7 @@
 💡 &nbsp; Hello everyone,I'm 2020 pass out graduate with BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like watching movies, reading novels, playing Chess and baskerball.\
+✍️ &nbsp;Apart from technical interests, I like watching movies, playing Chess and basketball.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at firstmodified@gmail.com . I'll try to respond as soon as possible!\
 
